@@ -150,9 +150,7 @@ In addition to the main business requests, the following recommended insights we
 
 ## Visualizations
 
-Explore the live Power BI dashboard for interactive visualizations:
-
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmYjUxOTAtYWViYS00MjAxLTg4YzQtYjE3MDQyNmUxYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the live Power BI dashboard for interactive visualizations in the pdf file:
 
 ## Future Work
 
